@@ -24,4 +24,4 @@ Paste the text that you want to read & save the txt file
 __Step 6:__<br>
 Run it & It will work like a charmander
 
-![Video Demo](https://youtu.be/ibAU0D9I7JU)
+[Video Demo](https://youtu.be/ibAU0D9I7JU)
